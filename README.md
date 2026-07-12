@@ -32,20 +32,23 @@
 
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="110">
 <a href="https://www.linkedin.com/in/rudra-mangroliya-55015b287" target="_blank" title="Connect with me on LinkedIn">
-<img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1b27" alt="LinkedIn"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" width="42" height="42" alt="LinkedIn"/>
 </a>
+<br/><sub><b>LinkedIn</b></sub>
 </td>
-<td align="center" width="140">
+<td align="center" width="110">
 <a href="mailto:rudramangroliya777@gmail.com" title="Send me an email">
-<img src="https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" alt="Gmail"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" alt="Gmail"/>
 </a>
+<br/><sub><b>Gmail</b></sub>
 </td>
-<td align="center" width="140">
+<td align="center" width="110">
 <a href="https://instagram.com/mangroliya_rudra" target="_blank" title="Follow me on Instagram">
-<img src="https://img.shields.io/badge/-Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1a1b27" alt="Instagram"/>
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42" height="42" alt="Instagram"/>
 </a>
+<br/><sub><b>Instagram</b></sub>
 </td>
 </tr>
 </table>
@@ -95,16 +98,6 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=RudraMangroliya&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" />
 </div>
-
----
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=RudraMangroliya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
-</div>
-
-> ℹ️ **Note:** if this card doesn't load, it's a temporary outage on the free hosting instance — refresh in a few minutes, or remove this section if it stays broken.
 
 ---
 
