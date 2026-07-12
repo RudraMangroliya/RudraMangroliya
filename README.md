@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rudra%20Mangroliya&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=55&descSize=18" width="100%" style="border-radius:5px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rudra%20Mangroliya&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://www.linkedin.com/in/rudra-mangroliya-55015b287" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Full+Stack+Developer;Building+Real-World+Applications+%F0%9F%9A%80;Learning+Advanced+Backend+%26+AI+Integration;Always+Turning+Ideas+Into+Products+%F0%9F%92%A1" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius:7px;">
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" >
 
 ### 👨‍💻 About Me
 
