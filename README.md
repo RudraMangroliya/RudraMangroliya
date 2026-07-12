@@ -30,9 +30,25 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-mangroliya-55015b287)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudramangroliya777@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mangroliya_rudra)
+<table>
+<tr>
+<td align="center" width="140">
+<a href="https://www.linkedin.com/in/rudra-mangroliya-55015b287" target="_blank" title="Connect with me on LinkedIn">
+<img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1b27" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" width="140">
+<a href="mailto:rudramangroliya777@gmail.com" title="Send me an email">
+<img src="https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" alt="Gmail"/>
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://instagram.com/mangroliya_rudra" target="_blank" title="Follow me on Instagram">
+<img src="https://img.shields.io/badge/-Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1a1b27" alt="Instagram"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -51,7 +67,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 </div>
@@ -61,12 +76,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RudraMangroliya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraMangroliya&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="35%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RudraMangroliya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RudraMangroliya&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="35%"/>
 </div>
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=RudraMangroliya&theme=tokyonight&hide_border=true" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=RudraMangroliya&theme=tokyonight&hide_border=true" width="65%"/>
 </div>
 
 <div align="center">
@@ -78,7 +93,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RudraMangroliya&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" />
+<img src="https://github-trophies.vercel.app/?username=RudraMangroliya&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" />
 </div>
 
 ---
@@ -88,6 +103,8 @@
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=RudraMangroliya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
 </div>
+
+> ℹ️ **Note:** if this card doesn't load, it's a temporary outage on the free hosting instance — refresh in a few minutes, or remove this section if it stays broken.
 
 ---
 
