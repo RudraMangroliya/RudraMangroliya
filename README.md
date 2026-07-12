@@ -12,6 +12,8 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" >
 
+<br/>
+
 ### 👨‍💻 About Me
 
 - 🔭 Information Technology student passionate about **Backend & Full Stack Development**
