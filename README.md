@@ -84,13 +84,28 @@
 <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git"/></a>
  
 </div>
+
 <div align="center">
-<a href="https://jwt.io" target="_blank" title="JWT"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" alt="JWT"/></a>
-<a href="https://reactrouter.com" target="_blank" title="React Router"><img src="https://img.shields.io/badge/-%20-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" height="48" alt="React Router"/></a>
-<a href="https://react-hook-form.com" target="_blank" title="React Hook Form"><img src="https://img.shields.io/badge/-%20-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="48" alt="React Hook Form"/></a>
-<a href="https://opencv.org" target="_blank" title="OpenCV"><img src="https://img.shields.io/badge/-%20-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="48" alt="OpenCV"/></a>
-<a href="https://render.com" target="_blank" title="Render"><img src="https://img.shields.io/badge/-%20-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" alt="Render"/></a>
- 
+<br/>
+<a href="https://jwt.io" target="_blank" title="JWT">
+<img src="https://img.shields.io/badge/JWT-1a1b27?style=flat-square&logo=jsonwebtokens&logoColor=white&logoWidth=18" height="32" alt="JWT"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://reactrouter.com" target="_blank" title="React Router">
+<img src="https://img.shields.io/badge/React_Router-1a1b27?style=flat-square&logo=reactrouter&logoColor=white&logoWidth=18" height="32" alt="React Router"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://react-hook-form.com" target="_blank" title="React Hook Form">
+<img src="https://img.shields.io/badge/React_Hook_Form-1a1b27?style=flat-square&logo=reacthookform&logoColor=white&logoWidth=18" height="32" alt="React Hook Form"/>
+</a>
+<!-- &nbsp;&nbsp;
+<a href="https://opencv.org" target="_blank" title="OpenCV">
+<img src="https://img.shields.io/badge/OpenCV-1a1b27?style=flat-square&logo=opencv&logoColor=white&logoWidth=18" height="32" alt="OpenCV"/>
+</a> -->
+&nbsp;&nbsp;
+<a href="https://render.com" target="_blank" title="Render">
+<img src="https://img.shields.io/badge/Render-1a1b27?style=flat-square&logo=render&logoColor=white&logoWidth=18" height="32" alt="Render"/>
+</a>
 </div>
 
 ---
@@ -125,8 +140,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/RudraMangroliya/RudraMangroliya/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
-
-> ℹ️ **Note:** the animated snake needs a one-time GitHub Action set up in this repo — see the setup note at the bottom of this file.
 
 ---
 
